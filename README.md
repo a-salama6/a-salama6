@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ahmed-salama6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://a-salama6.github.io/" target="_blank">
+  <a href="https://ahmed-salama-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?logo=githubpages&style=for-the-badge" />
   </a>
   <a href="mailto:ahmedsalama3989@gmail.com">
