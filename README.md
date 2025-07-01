@@ -81,7 +81,7 @@ If you’d like to collaborate on data projects, dashboard building, or teaching
 
 - 📧 **ahmedsalama3989@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-salama6/)  
-- 🌍 [Portfolio](https://a-salama6.github.io/)
+- 🌍 [Portfolio](href="https://ahmed-salama-portfolio.netlify.app/)
 
 ---
 
