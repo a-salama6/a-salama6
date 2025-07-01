@@ -18,7 +18,12 @@
 
 ---
 
-# **👨‍💻 About Me**
+<h1 align="center"><strong>👋 Welcome! I'm Ahmed Salama</strong></h1>
+<h3 align="center"><em>Data Analyst | Power BI Specialist | SQL | Python</em></h3>
+
+---
+
+<h2><strong>👨‍💻 About Me</strong></h2>
 
 - 🎓 **Ahmed Salama**
 - 📍 Based in Cairo, Egypt  
@@ -30,7 +35,7 @@
 
 ---
 
-# **🚀 Featured Projects**
+<h2><strong>🚀 Featured Projects</strong></h2>
 
 | Project | Tools | Description |
 |--------|-------|-------------|
@@ -42,7 +47,7 @@
 
 ---
 
-# **🧰 Tech Stack**
+<h2><strong>🧰 Tech Stack</strong></h2>
 
 | Skill Area        | Tools / Languages |
 |-------------------|-------------------|
@@ -53,7 +58,7 @@
 
 ---
 
-# **📊 GitHub Stats**
+<h2><strong>📊 GitHub Stats</strong></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a-salama6&show_icons=true&theme=chartreuse-dark" width="48%" />
@@ -62,7 +67,7 @@
 
 ---
 
-# **🎓 Certifications**
+<h2><strong>🎓 Certifications</strong></h2>
 
 - ✅ **Microsoft Power BI Specialist** – Digital Egypt Pioneers  
 - ✅ 6-Month Training in Azure, Power Query, DAX, and Data Modeling  
@@ -70,7 +75,7 @@
 
 ---
 
-# **📬 Contact Me**
+<h2><strong>📬 Contact Me</strong></h2>
 
 If you’d like to collaborate on data projects, dashboard building, or teaching opportunities — feel free to reach out!
 
